@@ -33,7 +33,7 @@ After the local deployment, you can check if the docker containers are working.
 $ docker-compose ps
 ```
 
-# How to execute
+# How to exec
 
 Open your favorite web browser and go to this URL: http://localhost
 
