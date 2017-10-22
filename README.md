@@ -1,4 +1,4 @@
-Example of architecture based on microservices for building a simple HelloWorld application. Below is a screenshot of the main user interface.
+An example of architecture based on microservices for building a simple HelloWorld application. Below is a screenshot of the main user interface.
 
 Scenario is obvious: you input a HelloWorld message and you submit it. All the HelloWorld messages are listed into a table.
 
